@@ -1,0 +1,15 @@
+{
+  "name": "Scrim-s0p3ekujd2",
+  "description": "https://v2.scrimba.com/claude-ai-c09gsmkso3/~03it",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "0.32.1",
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
